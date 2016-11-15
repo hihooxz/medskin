@@ -1,0 +1,137 @@
+.ms-title-page{
+	font-size: 20px;
+	color: #fff;
+	margin-top: -5px;
+}
+.ms-notification{
+	margin-top: 10px;
+}
+.ms-notification a{
+	color: #333;
+}
+.ms-notification-time{
+	color:#bbb7bb;
+	font-size: 10px;
+	margin-top: 5px;
+	padding-bottom: 5px;
+	border-bottom: 1px solid #bbb7bb;
+}
+.ms-top-appointment{
+	color:#74be1f;
+	font-size: 10px;
+	margin: 10px 0;
+}
+.ms-top-appointment .self{
+	color:#333;
+}
+.btn-green{
+	color: #fff;
+    background-color: #74be1f;
+    border-color: #74be1f;
+    padding: 2px 30px;
+    font-size: 10px;
+    border-radius: 7px;
+}
+.ms-appointment{
+	margin:5px 0 0 0;
+	border-top: 1px solid #bbb7bb;
+	padding: 5px 0;
+}
+.clearfix{
+	clear: both;
+}
+.ms-appointment .grey{
+	font-size: 10px;
+	color: #bbb7bb;
+}
+.ms-appointment b{
+	color: #74be1f;
+}
+.ms-appointment .time{
+	font-size: 11px;
+}
+.ms-footer-appointment{
+	border-top: 1px solid #bbb7bb;
+	color:#7f7b7f;
+}
+.ms-footer-appointment a{
+	color:#7f7b7f;
+}
+.ms-footer-appointment i{
+	color:#7f7b7f;
+}
+.row-footer-appointment{
+	border-bottom: 1px solid #bbb7bb;
+}
+.ms-appointment-no-border{
+	margin:5px 0 0 0;
+
+	padding: 5px 0;
+}
+.ms-appointment-no-border .grey{
+	font-size: 10px;
+	color: #bbb7bb;
+}
+.ms-appointment-no-border b{
+	color: #74be1f;
+}
+.ms-appointment-no-border .time{
+	font-size: 11px;
+}
+.ms-appointment-time{
+	margin-top:10px;
+}
+.ms-appointment-time div .time {
+    float:left;
+    padding: 10px;
+    line-height:20px;
+    text-align:center;
+    background: #ccc;
+    margin:2px;
+    cursor:pointer;
+    color:#333;
+}
+
+.ms-appointment-time div .selected {
+    background:#74be1f;
+}
+.panel-default > .panel-heading {
+  color: #333333;
+  background-color: #fff;
+  border-color: #ddd;
+}
+.btn-green-control{
+	color: #fff;
+    background-color: #74be1f;
+    border-color: #74be1f;
+    font-size: 14px;
+    padding: 5px 0
+}
+.ms-new-post{
+	margin: 10px 0 0 0;
+}
+.image-upload > input
+{
+    display: none;
+}
+.content-txt a{
+	color:#333;
+	text-decoration: none;
+}
+.comment{
+	padding: 10px 0 0 0;
+	border-top: 1px solid #ccc;
+	margin-top: 5%;
+}
+.time{
+	color:#d7d7df;
+	font-size: 9px;
+}
+.ms-find-doctor{
+	background-color: #d7d7df;
+	padding: 5px 10px;
+}
+h3{
+	margin: 0;
+	padding: 0;
+}

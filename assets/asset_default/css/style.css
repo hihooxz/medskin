@@ -1,0 +1,27 @@
+body{
+	background-image: url('../image/face.png');
+	width: 100%;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+body .logo{
+	background: url('../image/logos.png') no-repeat center;
+	width: 100%;
+    height: 20%;
+    position: fixed;
+    bottom: 45px;
+    margin-left: -7px;
+    background-size: 75% auto;
+}
+@media (min-width : 768px){
+    body .logo{
+    background: url('../image/logos.png') no-repeat center;
+    width: 100%;
+    height: 50%;
+    position: fixed;
+    bottom: 45px;
+    margin-left: -7px;
+    background-size: 75% auto;
+    }
+}
